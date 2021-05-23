@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
@@ -40,4 +40,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 884512155
+    locked: 0
+  - name: Mafia
+    uniqueID: 2727790451
+    locked: 0
+  - name: Player
+    uniqueID: 2853383763
+    locked: 0
+  - name: Level
+    uniqueID: 1344456439
+    locked: 0
+  - name: Menu
+    uniqueID: 80996867
     locked: 0
