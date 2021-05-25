@@ -1,5 +1,5 @@
 # Run Or Die
-Este juego fue creado con Unity y consta en escapar de la aplanadora para no morir, el terreno es procedural por lo que en general ¡no tiene fin! acumulas puntos mientras mas avanzas en la partida
+Este juego fue creado con Unity y consta en escapar de la aplanadora para no morir, el terreno es procedural por lo que en general ¡no tiene fin! acumulas puntos mientras mas avanzas en la partida.
 
 # Juega
 
